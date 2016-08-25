@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VPFN</string>
+
+    <string name="tab_jokes">笑话</string>
+    <string name="tab_girls">福利</string>
+    <string name="tab_news">新闻</string>
+    <string name="tab_about">关于</string>
+</resources>
